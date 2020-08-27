@@ -12,5 +12,3 @@ At the end of these 10 months of intensive training, I hope the fire will still 
 *For now, I'm descovering Markdown !*
 
 So, [come back here](https://florencejacobs.github.io "Florence Jacobs's Skills")in some months, you'll see all of the skills I could developped !
-
-**Texte ajouté pour tester le ``git revert``**

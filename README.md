@@ -22,6 +22,7 @@ You'll find here the result of an intensive learning.
     3. https://florencejacobs.github.io/page_association/
     4. https://florencejacobs.github.io/mon_cv/
     5. https://florencejacobs.github.io/tim_berners_lee/
+    6. https://florencejacobs.github.io/carte_animee/
 
 So, [come back here](https://florencejacobs.github.io "Florence Jacobs's Skills") in some months, you'll see all of the skills I could developped !
 
